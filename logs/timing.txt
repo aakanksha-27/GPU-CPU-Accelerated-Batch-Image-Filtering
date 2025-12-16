@@ -1,0 +1,4 @@
+Images processed: 500
+CPU time: 0.2578 seconds
+GPU time: 0.0496 seconds
+Speedup: 5.20x
