@@ -4,6 +4,7 @@ import cv2
 from cpu_pipeline import cpu_process_images
 from gpu_pipeline import gpu_process_images
 import os
+os.makedirs("logs", exist_ok=True)
 
 def load_images(path, limit):
     images = []
